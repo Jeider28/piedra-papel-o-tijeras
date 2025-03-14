@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\ppot\ppot\bin\Debug\net8.0-windows\ppot.exe
+C:\Users\Administrator\source\repos\ppot\ppot\bin\Debug\net8.0-windows\ppot.deps.json
+C:\Users\Administrator\source\repos\ppot\ppot\bin\Debug\net8.0-windows\ppot.runtimeconfig.json
+C:\Users\Administrator\source\repos\ppot\ppot\bin\Debug\net8.0-windows\ppot.dll
+C:\Users\Administrator\source\repos\ppot\ppot\bin\Debug\net8.0-windows\ppot.pdb
+C:\Users\Administrator\source\repos\ppot\ppot\obj\Debug\net8.0-windows\ppot.Form1.resources
+C:\Users\Administrator\source\repos\ppot\ppot\obj\Debug\net8.0-windows\ppot.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ppot\ppot\obj\Debug\net8.0-windows\ppot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ppot\ppot\obj\Debug\net8.0-windows\ppot.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ppot\ppot\obj\Debug\net8.0-windows\ppot.AssemblyInfo.vb
+C:\Users\Administrator\source\repos\ppot\ppot\obj\Debug\net8.0-windows\ppot.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ppot\ppot\obj\Debug\net8.0-windows\ppot.dll
+C:\Users\Administrator\source\repos\ppot\ppot\obj\Debug\net8.0-windows\refint\ppot.dll
+C:\Users\Administrator\source\repos\ppot\ppot\obj\Debug\net8.0-windows\ppot.pdb
+C:\Users\Administrator\source\repos\ppot\ppot\obj\Debug\net8.0-windows\ppot.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ppot\ppot\obj\Debug\net8.0-windows\ref\ppot.dll
+C:\Users\Administrator\source\repos\ppot\ppot\obj\Debug\net8.0-windows\ppot.Resources.resources
